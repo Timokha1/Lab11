@@ -26,6 +26,14 @@ __published:	// IDE-managed Components
 	TEdit *EditY;
 	TMemo *Memo1;
 	TButton *Button2;
+	TLabel *Label1;
+	TLabel *Label2;
+	TLabel *Label3;
+	TLabel *Label4;
+	TLabel *Label5;
+	TLabel *Label6;
+	TLabel *Label7;
+	TLabel *Label8;
 	void __fastcall Button2Click(TObject *Sender);
 	void __fastcall Button1Click(TObject *Sender);
 	void __fastcall ComboBox1Change(TObject *Sender);

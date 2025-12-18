@@ -18,6 +18,27 @@ object Form1: TForm1
     Height = 177
     Caption = #1052#1072#1090#1077#1084#1072#1090#1080#1095#1085#1072#1084#1086#1076#1077#1083#1100
     TabOrder = 0
+    object Label1: TLabel
+      Left = 56
+      Top = 24
+      Width = 20
+      Height = 15
+      Caption = #1063#1072#1089
+    end
+    object Label2: TLabel
+      Left = 32
+      Top = 64
+      Width = 29
+      Height = 15
+      Caption = #1064#1083#1103#1093
+    end
+    object Label3: TLabel
+      Left = 32
+      Top = 115
+      Width = 7
+      Height = 15
+      Caption = 'Y'
+    end
     object Edit1: TEdit
       Left = 368
       Top = 24
@@ -50,6 +71,41 @@ object Form1: TForm1
     Height = 201
     Caption = #1056#1077#1079#1091#1083#1100#1090#1072#1090#1080
     TabOrder = 1
+    object Label4: TLabel
+      Left = 27
+      Top = 24
+      Width = 20
+      Height = 15
+      Caption = #1063#1072#1089
+    end
+    object Label5: TLabel
+      Left = 27
+      Top = 56
+      Width = 29
+      Height = 15
+      Caption = #1064#1083#1103#1093
+    end
+    object Label6: TLabel
+      Left = 27
+      Top = 104
+      Width = 56
+      Height = 15
+      Caption = #1064#1074#1080#1076#1082#1110#1089#1090#1100
+    end
+    object Label7: TLabel
+      Left = 27
+      Top = 144
+      Width = 75
+      Height = 15
+      Caption = #1055#1088#1080#1089#1082#1086#1088#1077#1085#1085#1103
+    end
+    object Label8: TLabel
+      Left = 27
+      Top = 183
+      Width = 7
+      Height = 15
+      Caption = 'Y'
+    end
     object Edit3: TEdit
       Left = 368
       Top = 16
